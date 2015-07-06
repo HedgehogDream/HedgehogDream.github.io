@@ -1,0 +1,33 @@
+/* font-family: "Stalemate"; */
+@font-face {
+    font-family: "Stalemate";
+    src: url("../fonts/Stalemate/Stalemate-Regular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+/* font-family: "Oswald"; */
+@font-face {
+    font-family: "Oswald-Regular";
+    src: url("../fonts/Oswald/Oswald-Regular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+/* font-family: "Oswald-Bold"; */
+@font-face {
+    font-family: "Oswald-Bold";
+    src: url("../fonts/Oswald/Oswald-Bold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+/* font-family: "Oswald-Light"; */
+@font-face {
+    font-family: "Oswald-Light";
+    src: url("../fonts/Oswald/Oswald-Light.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+
